@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|c:\\users\\redmi\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\wpf_distant\\wpf_distant\\enter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|solutionrelative:wpf_distant\\enter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\wpf_distant\\enter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|solutionrelative:wpf_distant\\enter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|c:\\users\\redmi\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\wpf_distant\\wpf_distant\\confim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|solutionrelative:wpf_distant\\confim.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\wpf_distant\\confim.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|solutionrelative:wpf_distant\\confim.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\wpf_distant\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|solutionrelative:wpf_distant\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\wpf_distant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D464F57B-A511-43E8-BCC4-4237C0DCE135}|WPF_Distant\\WPF_Distant.csproj|solutionrelative:wpf_distant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enter.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Enter.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Distant\\Enter.xaml.cs",
+              "ToolTip": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Enter.xaml.cs",
+              "RelativeToolTip": "WPF_Distant\\Enter.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:18:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_Distant\\App.xaml",
+              "ToolTip": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\App.xaml",
+              "RelativeToolTip": "WPF_Distant\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T18:20:33.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Confim.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Confim.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Distant\\Confim.xaml.cs",
+              "ToolTip": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Confim.xaml.cs",
+              "RelativeToolTip": "WPF_Distant\\Confim.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:41:25.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Confim.xaml",
+              "DocumentMoniker": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Confim.xaml",
+              "RelativeDocumentMoniker": "WPF_Distant\\Confim.xaml",
+              "ToolTip": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Confim.xaml",
+              "RelativeToolTip": "WPF_Distant\\Confim.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:09:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enter.xaml",
+              "DocumentMoniker": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Enter.xaml",
+              "RelativeDocumentMoniker": "WPF_Distant\\Enter.xaml",
+              "ToolTip": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\Enter.xaml",
+              "RelativeToolTip": "WPF_Distant\\Enter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T09:12:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Distant\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\redmi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WPF_Distant\\WPF_Distant\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Distant\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T21:32:54.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

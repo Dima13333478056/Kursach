@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="WPF_Distant.Lessons"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="#303040">
+
+    <UserControl.Resources>
+        <!-- Стиль для элементов списка ListBox (ListBoxItem) -->
+        <Style x:Key="ListBoxItemStyle" TargetType="ListBoxItem">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Background" Value="#404060"/>
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+        </Style>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="320"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Боковая панель -->
+        <ScrollViewer Grid.Column="0" VerticalScrollBarVisibility="Auto" Background="#404060">
+            <StackPanel Margin="10">
+                <!-- Выпадающий список предметов -->
+                <ComboBox Name="LessonsCB" Height="40" Margin="0,0,0,10" Style="{StaticResource ComboBoxStyle}" SelectionChanged="LessonsCB_SelectionChanged">
+                    <ComboBoxItem Content="Предмет 1"/>
+                    <ComboBoxItem Content="Предмет 2"/>
+                    <ComboBoxItem Content="Предмет 3"/>
+                </ComboBox>
+
+                <!-- Список доступных тем -->
+                <ListBox Name="LessonsList" Margin="0, 10, 0, 10" ItemContainerStyle="{StaticResource ListBoxItemStyle}" SelectionChanged="LessonsList_SelectionChanged" />
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Основной контент -->
+        <Grid Grid.Column="1" Background="#505081">
+            <StackPanel Margin="20" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                <!-- Название темы -->
+                <TextBlock Name="TopicTitle" Foreground="White" FontSize="28" FontWeight="Bold" TextAlignment="Left" Margin="0,0,0,20" HorizontalAlignment="Stretch" TextWrapping="Wrap"/>
+
+                <!-- Описание урока -->
+                <TextBlock Name="LessonDescription" Foreground="White" FontSize="16" TextWrapping="Wrap" TextAlignment="Justify" Margin="0,0,0,20" HorizontalAlignment="Stretch"/>
+
+                <!-- Кнопка для скачивания -->
+                <Button Content="Скачать лекционный материал" Width="250" Height="50" Background="#607D8B" Foreground="White" FontSize="16" HorizontalAlignment="Center" Margin="0,0,0,20" Click="DownloadMaterial_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>
